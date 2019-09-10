@@ -1,0 +1,3 @@
+# Basketball 
+Invented by Canadian Dr. Janes Naismith, basketball is a team sport which involves two opposing teams playing on a recentangluar court competting to score points (commonly refered to as 'Baskets'). Following the succesful season of Canada's only basketball team--the Toronto Raptors--basketball has seen a recurgance of popularity in Canadian culture. 
+[Raptor's Logo](https://rfathead-res.cloudinary.com/image/upload/q_auto/c_pad,h_3000/g_north,c_crop,h_3000,w_3000/c_pad,h_3000,w_3000/room/applied_icon/secondary_images/AI01-00500_nba_toronto_raptors_outdoor_graphic_large_primary_alt_pdp.jpg)
